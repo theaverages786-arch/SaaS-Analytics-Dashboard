@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Analytics Dashboard",
+  "description": "A modern dark-mode SaaS analytics dashboard with spring-physics animated charts, fluid page transitions, staggered data lists, and interactive revenue modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
